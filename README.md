@@ -1,8 +1,8 @@
 # 🖇️ Awesome Paperclip [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome [Paperclip](https://github.com/kp-pc//paperclip) plugins, tools, and resources. It's time to clip! 📎
+> A curated list of awesome [Paperclip](https://github.com/kp-pc/paperclip) plugins, tools, and resources. It's time to clip! 📎
 
-[Paperclip](https://github.com/kp-pc//paperclip) is an open-source orchestration platform for zero-human companies.
+[Paperclip](https://github.com/kp-pc/paperclip) is an open-source orchestration platform for zero-human companies.
 
 ---
 
@@ -20,8 +20,8 @@
 
 Official repositories and resources from the Paperclip team.
 
-- [Paperclip](https://github.com/kp-pc//paperclip) - Open-source orchestration for zero-human companies.
-- [Paperclip Website](https://github.com/kp-pc//paperclip-website) - The official Paperclip website source.
+- [Paperclip](https://github.com/kp-pc/paperclip) - Open-source orchestration for zero-human companies.
+- [Paperclip Website](https://github.com/kp-pc/paperclip-website) - The official Paperclip website source.
 
 ## Plugins
 
